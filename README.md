@@ -1,5 +1,6 @@
 # Riot.js sample
 Sample Todo app using Riot.js.
+
 published at https://ezawa800.github.io/riotjs-sample/
 
 refs: [Todoアプリ · Riot.js](http://riotjs.com/ja/play/todo/)
