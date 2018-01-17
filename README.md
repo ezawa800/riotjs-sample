@@ -5,9 +5,9 @@ published at https://ezawa800.github.io/riotjs-sample/
 
 refs: [Todoアプリ · Riot.js](http://riotjs.com/ja/play/todo/)
 
-# Chromeで表示するの注意
+# Chromeで表示する際の注意
 
-cloneしてローカルで表示する際には、以下のコマンドでChromeを起動しないとエラーになる。
+cloneしてChromeで表示する際には、以下のコマンドでChromeを起動しないとエラーになる。
 
 ```shell
 $ sudo /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --args -allow-file-access-from-files
