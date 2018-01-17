@@ -1,0 +1,30 @@
+<!doctype html>
+
+<html>
+  <head>
+    <title>Riot todo</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="todo.css">
+  </head>
+
+  <body>
+    <h2>Riot.js Todo sample</h2>
+
+    <todo></todo>
+
+    <script src="todo.tag" type="riot/tag"></script>
+    <script src="https://rawgit.com/riot/riot/master/riot%2Bcompiler.min.js"></script>
+
+    <script>
+      riot.mount('todo', {
+        title: 'I want to do following.',
+        items: [
+          { title: 'Eat breakfast', done: true },
+          { title: 'Hidden item', hidden: true },
+          { title: 'Learn Riot.js' },
+          { title: 'Escape from jQuery' }
+        ]
+      })
+    </script>
+  </body>
+</html>
