@@ -1,5 +1,8 @@
-# riotjs-sample
-Riot.js sample
+# Riot.js sample
+Sample Todo app using Riot.js.
+published at https://ezawa800.github.io/riotjs-sample/
+
+refs: [Todoアプリ · Riot.js](http://riotjs.com/ja/play/todo/)
 
 # Chromeで表示するの注意
 
@@ -9,4 +12,4 @@ cloneしてローカルで表示する際には、以下のコマンドでChrome
 $ sudo /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --args -allow-file-access-from-files
 ```
 
-参考: [[*その他*] ChromeにてAjaxでローカルファイルにアクセス - Qiita](https://qiita.com/cigalecigales/items/33afaa42f91542ffa62e)
+refs: [[*その他*] ChromeにてAjaxでローカルファイルにアクセス - Qiita](https://qiita.com/cigalecigales/items/33afaa42f91542ffa62e)
